@@ -1,0 +1,14 @@
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\bin\Debug\net8.0\Calificaciones.exe
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\bin\Debug\net8.0\Calificaciones.deps.json
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\bin\Debug\net8.0\Calificaciones.runtimeconfig.json
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\bin\Debug\net8.0\Calificaciones.dll
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\bin\Debug\net8.0\Calificaciones.pdb
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.AssemblyInfoInputs.cache
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.AssemblyInfo.cs
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.csproj.CoreCompileInputs.cache
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.dll
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\obj\Debug\net8.0\refint\Calificaciones.dll
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.pdb
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\obj\Debug\net8.0\Calificaciones.genruntimeconfig.cache
+D:\Curso.net.core\NumerosLetras\Calificaciones\Calificaciones\obj\Debug\net8.0\ref\Calificaciones.dll
